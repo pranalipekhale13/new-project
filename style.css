@@ -1,0 +1,49 @@
+
+        .navbar{
+           background-color: black;
+            padding: 5px;
+            margin-top: 10px;
+
+
+        }
+        .nav-item{
+           padding-left:300px;
+           
+            color: white;
+            margin: 0 10px;
+           font-size: 20px;
+        }
+body{
+    background-color :#9999ff;
+   
+    padding: 0;
+    margin: 0;
+}
+.info{
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+
+
+   .btn{
+    position: relative;
+    font-size: 20px;
+    padding: 5px 20px;
+    margin: 15px;
+    left: 600px;
+    border: 2px solid black;
+   border-radius: 50px;
+   }
+   .btn-primary{
+    background-color:#ff80df;
+
+   }
+   .btn-secondary{
+   background-color: #ffe6f9;
+   }
+   .heading{
+    margin-top: 40px;
+    color: white;
+    font-size: 30px;
+}
